@@ -21,12 +21,12 @@ This is a Python project that automatically sends birthday wishes via email. It 
    
     git clone https://github.com/Tushar8691/automatic-birthday-wisher.git
 
-2. Navigate to the project directory:
-    bash
+2. Navigate to the project directory: 
+    
     cd automatic-birthday-wisher
 
 3. Install the required libraries:
-    pip install pandas
+    pip install pandas,
     pip install matplotlib 
     
 
